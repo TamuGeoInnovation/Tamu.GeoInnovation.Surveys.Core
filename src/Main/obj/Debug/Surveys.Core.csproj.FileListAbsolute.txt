@@ -1,0 +1,9 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Surveys\Core\build\v1.1\bin\AnyCPU\debug\TAMU.GeoInnovation.Surveys.Core.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Surveys\Core\build\v1.1\bin\AnyCPU\debug\TAMU.GeoInnovation.Surveys.Core.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Surveys\Core\src\obj\Debug\TAMU.GeoInnovation.Surveys.Core.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Surveys\Core\src\obj\Debug\TAMU.GeoInnovation.Surveys.Core.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Surveys\Core\src\obj\Debug\Surveys.Core.csprojResolveAssemblyReference.cache
+C:\DevBuild\Tamu\GeoInnovation\Surveys\Surveys.Core\build\1.0.0\debug\Tamu.GeoInnovation.Surveys.Core.dll
+C:\DevBuild\Tamu\GeoInnovation\Surveys\Surveys.Core\build\1.0.0\debug\Tamu.GeoInnovation.Surveys.Core.pdb
+C:\DevSource\Tamu\GeoInnovation\Surveys\Core\src\obj\Debug\Tamu.GeoInnovation.Surveys.Core.dll
+C:\DevSource\Tamu\GeoInnovation\Surveys\Core\src\obj\Debug\Tamu.GeoInnovation.Surveys.Core.pdb
