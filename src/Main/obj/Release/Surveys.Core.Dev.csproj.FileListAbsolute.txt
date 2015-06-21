@@ -1,0 +1,2 @@
+C:\DevSource\Tamu\GeoInnovation\Surveys.Core\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Surveys.Core.dll
+C:\DevSource\Tamu\GeoInnovation\Surveys.Core\src\Main\obj\Release\Tamu.GeoInnovation.Surveys.Core.dll
